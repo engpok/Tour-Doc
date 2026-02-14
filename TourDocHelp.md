@@ -2,11 +2,11 @@
 
 Tour Doc lets you:
  - **Record a walking tour** with a breadcrumb trail, photos, and text notes.
- -    You mark places where you stop to take photos and/or add notes
+   - You **mark** places where you stop to take photos and/or add notes
  - **View a saved tour**:
- -    Pins on the map show you where you stopped to take photos or add notes
- -    Get directions to Pinned locations (paid version only)
- -    Export photos to Photos app
+   - Pins on the map show you where you stopped to take photos or add notes
+   - Get directions to Pinned locations (paid version only)
+   - Export photos to Photos app
  - **Export the saved tour to PDF**
  - **Export the tour to Word format for editing** (paid version only)
 
