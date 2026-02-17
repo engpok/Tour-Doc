@@ -21,17 +21,11 @@ Tour Doc lets you:
 4. Walk — the app records a breadcrumb trail on the map.
 5. Tap **Mark** whenever you want to pin a new location on the map.
    - 📸 Mark also opens the camera so you can take a photo right away.
+   - Add notes to photos
 6. Tap **Photo** to add a photo to the most recent segment.
 7. Tap **Pause** to stop GPS and save battery.
    - Tap **Resume** to continue.
 8. Tap **Stop** to save the tour.
-
----
-
-## 📝 Add Captions
-
-- Under each photo, tap the text box to type a caption.
-- Captions are saved automatically.
 
 ---
 
@@ -47,7 +41,7 @@ Tour Doc lets you:
 
 ---
 
-## 📤 Export
+## 📤 Export tours to external file
 
 Open a saved tour and tap **Export**:
 
@@ -66,6 +60,7 @@ Exports include:
 
 - **Units**: miles or kilometers.
 - **Default export format**: PDF or DOCX.
+- Online **help** doc
 
 ---
 
