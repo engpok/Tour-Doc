@@ -11,7 +11,7 @@ Tour Doc lets you document a walking/food/biking/etc tour with map, breadcrumb t
   - Get directions to pinned locations (paid version only).
   - Export photos to the Photos app.
 - 📤 **Export saved tours**
-  - **Word format** for enhanced editing** (paid version only)
+  - **Word format** for enhanced editing (paid version only)
   - **PDF format** for sharing or printing
 
 ---
