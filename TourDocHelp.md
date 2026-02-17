@@ -2,14 +2,14 @@
 
 Tour Doc lets you:
 
-- 🔴 **Record a walking tour** with a breadcrumb trail, photos, and text notes.
+- 🔴 **Record a walking/bike/food/etc tour** with a breadcrumb trail, photos, and text notes.
   - You **mark(pin)** locations that you want to document with photos and/or notes.
-- 🗺️ **View a saved tour**
+- 🗺️ **View saved tours**
   - Pins on the map show where you marked locations to take photos or add notes.
   - Get directions to pinned locations (paid version only).
   - Export photos to the Photos app.
-- 📤 **Export the saved tour to PDF**
-- 📤 **Export the tour to Word, for editing** (paid version only)
+- 📤 **Export a saved tour to PDF**
+- 📤 **Export a tour to Word, for enhanced editing** (paid version only)
 
 ---
 
@@ -40,7 +40,7 @@ Tour Doc lets you:
 1. Go to the 🗺️ **Tours** tab.
 2. Tap a tour to open it (swipe left to **Rename** or **Delete**).
 3. Edit captions directly in the list.
-4. Swipe a photo for:
+4. Swipe a photo to:
    - **Delete**
    - **Copy to Photos**
 5. Swipe a location/section header to get directions to that location (paid version only).
