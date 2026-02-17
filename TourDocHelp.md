@@ -40,7 +40,8 @@ Tour Doc lets you document a walking/food/biking/etc tour with map, breadcrumb t
 4. Swipe a photo to:
    - **Delete**
    - **Copy to Photos**
-5. Swipe a location/section header to get directions to that location (paid version only).
+5. Tap a photo to view catalog of photos (larger size)
+6. Swipe a location/section header to get directions to that location (paid version only).
 
 ---
 
