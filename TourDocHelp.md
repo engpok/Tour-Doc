@@ -26,10 +26,10 @@ TourJournal lets you document a walking/food/biking/etc tour with your pinned lo
 6. Tap **Mark** whenever you want to pin the current location on the map.
    - (If GPS is not good, the map will not pin this location)
    - 📸 Mark also opens the camera so you can take a photo right away.
-   - Add notes to photos
+   - Add notes to photos (or edit later)
    - If photo taken more than 150 ft (50m) from last pin, then new pin created on map
 7. Tap **Photo** to add a photo to the most recent pinned location.
-8. Tap **Pause** to stop GPS and save battery.
+8. Tap **Pause** to stop GPS and save battery (during lunch break?).
    - Tap **Resume** to continue.
 9. Tap **Stop** to save the tour.
 
@@ -39,11 +39,11 @@ TourJournal lets you document a walking/food/biking/etc tour with your pinned lo
 
 1. Go to the 🗺️ **Tours** tab.
 2. Tap a tour to open it (swipe left to **Rename** or **Delete**).
-3. Edit captions directly in the list.
+3. Edit notes directly in the list.
 4. Swipe a photo to:
    - **Delete**
    - **Copy to Photos**
-5. Tap a photo to view catalog of photos (larger size)
+5. Tap a photo to view catalog of photos (larger size) for this pinned location
 6. Swipe a location/section header to get directions to that location.
 
 ---
@@ -73,5 +73,11 @@ Exports include:
 
 ## 💡 Tips
 
+While recording, TourJournal shows a **live GPS status badge**:
+
+- 🟢 **GPS** — good fix
+- 🟠 **GPS weak** — reduced accuracy
+- 🔴 **No GPS** — location unavailable
+- ⚪ **GPS off** — recording paused
 - If a mark section shows **Location unavailable**, GPS accuracy was low or the last fix was too old.
-- For best results, allow location access and keep the app active while recording.
+- For best results, monitor GPS quality before tapping **Mark** button.
