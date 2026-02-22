@@ -2,7 +2,7 @@
 
 TourJournal lets you document a walking/food/biking/etc tour with your pinned locations on a map, breadcrumb trail, photos and notes:
 
-- 🔴 **Record tour**
+- 🔴 **Record tour** 
   - **Mark(pin)** locations with button press
   - document with photos and/or notes.
 - 🗺️ **View saved tours**
@@ -22,14 +22,16 @@ TourJournal lets you document a walking/food/biking/etc tour with your pinned lo
 2. Change the default **tour name** if desired.
 3. Tap **Start**.
 4. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
-5. Tap **Mark** whenever you want to pin the current location on the map.
+5. Note that the map banner shows **GPS quality** along with <span style="color:red">Recording...</span> message.
+6. Tap **Mark** whenever you want to pin the current location on the map.
+   - (If GPS is not good, the map will not pin this location)
    - 📸 Mark also opens the camera so you can take a photo right away.
    - Add notes to photos
    - If photo taken more than 150 ft (50m) from last pin, then new pin created on map
-6. Tap **Photo** to add a photo to the most recent pinned location.
-7. Tap **Pause** to stop GPS and save battery.
+7. Tap **Photo** to add a photo to the most recent pinned location.
+8. Tap **Pause** to stop GPS and save battery.
    - Tap **Resume** to continue.
-8. Tap **Stop** to save the tour.
+9. Tap **Stop** to save the tour.
 
 ---
 
