@@ -1,6 +1,6 @@
-# TourJournal — Help
+# Tour Journaler — Help
 
-TourJournal lets you document a walking/food/biking/etc tour with your pinned locations on a map, breadcrumb trail, photos and notes:
+Tour Journaler lets you document a walking/food/biking/etc tour with your pinned locations on a map, breadcrumb trail, photos and notes:
 
 - 🔴 **Record tour** 
   - **Mark(pin)** locations with button tap
@@ -73,7 +73,7 @@ Exports include:
 
 ## 💡 Tips
 
-While recording, TourJournal shows a **live GPS status badge**:
+While recording, Tour Journaler shows a **live GPS status badge**:
 
 - 🟢 **GPS** — good fix
 - 🟠 **GPS weak** — reduced accuracy
