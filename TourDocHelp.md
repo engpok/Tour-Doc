@@ -1,12 +1,12 @@
 # Tour Journaler — Help
 
-Tour Journaler lets you document a walking/food/biking/etc tour with your pinned locations on a map, breadcrumb trail, photos and notes:
+Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with your pinned locations on a map, breadcrumb trail, photos and notes:
 
 - 🔴 **Record tour** 
   - **Mark(pin)** locations with button tap
   - document with photos and/or notes.
 - 🗺️ **View saved tours**
-  - Numbered pins on the map show marked locations
+  - Pins on the map show marked locations
   - List of Pins, photos and notes.
   - Get directions to any pinned location.
   - Export photos to the Photos app.
@@ -22,10 +22,14 @@ Tour Journaler lets you document a walking/food/biking/etc tour with your pinned
 2. Change the default **tour name** if desired.
 3. Tap **Start**.
 4. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
-5. Note that the map banner shows **GPS quality** along with <span style="color:red">Recording...</span> message.
-6. Tap **Mark** whenever you want to pin your current location on the map.
-   - (If GPS is not good, the map will not pin this location)
-   - 📸 Mark also opens the camera so you can take a photo right away.
+5. Note that the map banner shows **Recording...**
+6. Tap **Mark** button whenever you want to pin your current location on the map.
+   - Colored LED next to **Start** button shows GPS signal quality:
+     - 🟢 Green – Strong GPS signal with reliable location accuracy.
+     - 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
+     - 🔵 Blue – Searching for GPS or no location fix yet.
+     - ⚪ Gray – GPS intentionally turned off (recording paused).
+   - 📸 **Mark** also opens the camera so you can take a photo right away.
    - Add notes to photos (or edit later)
    - If photo taken more than 150 ft (50m) from last pin, then new pin created on map
 7. Tap **Photo** to add a photo to the most recent pinned location.
@@ -40,11 +44,11 @@ Tour Journaler lets you document a walking/food/biking/etc tour with your pinned
 1. Go to the 🗺️ **Tours** tab.
 2. Tap a tour to open it (swipe left to **Rename** or **Delete**).
 3. Edit notes directly in the list.
-4. Swipe a photo to:
+4. Left-Swipe a location/section header to get directions to that location.
+5. Left-Swipe a photo to:
    - **Delete**
    - **Copy to Photos**
-5. Tap a photo to view catalog of photos (larger size) for this pinned location
-6. Swipe a location/section header to get directions to that location.
+6. Tap a photo to view catalog of photos (larger size) for this pinned location
 
 ---
 
@@ -73,11 +77,13 @@ Exports include:
 
 ## 💡 Tips
 
-While recording, Tour Journaler shows a **live GPS status badge**:
+While recording, Tour Journaler shows a **live GPS status LED** next to the **Start** button:
 
-- 🟢 **GPS** — good fix
-- 🟠 **GPS weak** — reduced accuracy
-- 🔴 **No GPS** — location unavailable
-- ⚪ **GPS off** — recording paused
+- 🟢 Green – Strong GPS signal with reliable location accuracy.
+- 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
+- 🔵 Blue – Searching for GPS or no location fix yet.
+- ⚪ Gray – GPS intentionally turned off (recording paused)
 - If a mark section shows **Location unavailable**, GPS accuracy was low or the last fix was too old.
 - For best results, monitor GPS quality before tapping **Mark** button.
+
+Contact author at CellAnlysis1@gmail.com
