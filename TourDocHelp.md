@@ -87,4 +87,4 @@ While recording, Tour Journaler shows a **live GPS status LED** next to the **St
 - If a mark section shows **Location unavailable**, GPS accuracy was low or the last fix was too old.
 - For best results, monitor GPS quality before tapping **Mark** button.
 
-Contact author at CellAnlysis1@gmail.com
+For help contact: CellAnlysis1@gmail.com
