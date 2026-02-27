@@ -1,104 +1,56 @@
-# Calenduuh — Privacy Policy
-_Last updated: December 2025_
+# Tour Journaler Privacy Policy
 
-Thank you for using **Calenduuh**. This privacy policy applies to both **Calenduuh Free** and the paid version of **Calenduuh** for macOS.
+**Effective Date:** February 2026
 
-Calenduuh is designed with privacy as a core principle. The app stores all information **locally on your Mac**, and does not collect, transmit, or share any personal data with anyone.
+Tour Journaler respects your privacy. This app is designed to work without collecting personal information or transmitting your data to external servers.
 
----
+## Information We Collect
 
-## 📌 Information We Do Not Collect
+Tour Journaler does not require account creation and does not collect personal information.
 
-Calenduuh does **not** collect, track, store, transmit, or share any of the following:
+The app uses the following data locally on your device:
 
-- Names or contact information  
-- Email addresses  
-- Location data  
-- Usage data or analytics  
-- Device identifiers  
-- Advertising identifiers  
-- Cookies or tracking data  
-- Photos or media from your photo library (unless you intentionally paste images into notes)  
-- Health, financial, or sensitive data  
+- **Location Data** — Used only while you actively record a tour.
+- **Photos** — Images you choose to capture for tour notes.
+- **Text Notes** — Notes you create during a tour.
 
-Calenduuh does **not** communicate with external servers.
+All tour data is stored on your device.
 
----
+## How Location Is Used
 
-## 🗓 User Content
+Location access is requested only while using the app.  
+Location data is used solely to record your walking route during an active tour.
 
-All content you create within Calenduuh—including:
+Tour Journaler does not track your location in the background after recording is stopped or paused.
 
-- Appointments  
-- Reminders  
-- Notes  
-- Images embedded in notes (RTFD format)  
-- Appearance settings  
-- Group color selections  
+## Data Storage
 
-…is stored **only on your device**, inside the app’s sandboxed storage.
+All recorded routes, photos, and notes are stored locally on your device.  
+Tour Journaler does not upload, transmit, or share your data.
 
-None of this information ever leaves your Mac unless **you** manually export data via CSV/ZIP to an external device.
+## Data Sharing
 
----
+Tour Journaler does not:
 
-## 🔒 Data Sharing
+- Sell data  
+- Share data with third parties  
+- Use advertising networks  
+- Use third-party analytics services  
 
-Calenduuh shares **no data** with third parties.
+## Third-Party Services
 
-There are:
+Tour Journaler uses Apple system frameworks (such as MapKit and CoreLocation) to provide mapping and GPS functionality. No third-party tracking SDKs are included.
 
-- No analytics SDKs  
-- No advertising networks  
-- No cross-app tracking  
-- No hidden services  
+## Children’s Privacy
 
-Calenduuh operates entirely offline.
+Tour Journaler does not knowingly collect personal information from children.
 
----
+## Changes to This Policy
 
-## 🌐 Internet Access
+This Privacy Policy may be updated as the app evolves. Any changes will be reflected on this page.
 
-Calenduuh does **not** require an internet connection and does **not** access the internet for any feature.
+## Contact
 
-The only exception is if you manually open a support or help webpage in your browser.
+If you have questions about this Privacy Policy, please contact:
 
----
-
-## 🧒 Children’s Privacy
-
-Calenduuh does not collect any personal information, and is suitable for users of all ages, including children.
-
----
-
-## 🧩 Data Export
-
-If you use the Export feature, Calenduuh generates:
-
-- A CSV file containing appointments  
-- A ZIP file containing any notes with embedded images  
-
-The CSV file is stored **only where you choose to save it**.  
-The Zip file is not intended for editing by the user and therefore is stored in the app support folder according to Apple's sandbox requirements
-Calenduuh does not upload, transmit, or send exported data anywhere.
-
----
-
-## 📝 Changes to This Privacy Policy
-
-If this policy is updated, the new version will be posted on this page.  
-We recommend checking occasionally to stay informed.
-
----
-
-## 📬 Contact
-
-If you have questions about privacy or data handling, please contact:
-
-**cellanalysis1@gmail.com**
-
-We are committed to maintaining your privacy.
-
----
-
-Thank you for using Calenduuh.
+- **Email:** CellAnalysis1@gmail.com
