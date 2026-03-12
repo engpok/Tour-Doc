@@ -28,7 +28,7 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
    - Colored LED next to **Start** button shows GPS signal quality:
      - 🟢 Green – Strong GPS signal with reliable location accuracy.
      - 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
-     - 🔴 Red+Blinkiing – Searching for GPS or no location fix yet.
+     - 🔴 Red+Blinking – Searching for GPS or no location fix yet.
      - ⚪ Gray – GPS intentionally turned off (recording paused).
    - 📸 **Mark** also opens the camera so you can take a photo right away.
    - Add notes to photos (or edit later).
