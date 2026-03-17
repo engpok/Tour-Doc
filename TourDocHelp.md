@@ -95,4 +95,4 @@ While recording, Tour Journaler shows a **live GPS status LED** next to the **St
 
 Cell phone data connection required to render map.
 
-For help contact: CellAnlysis1@gmail.com
+For help contact: CellAnalysis1@gmail.com
