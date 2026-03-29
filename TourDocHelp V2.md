@@ -18,6 +18,8 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
 
 ## 🔴 Record a Tour
 
+<img width="612" height="390" alt="image" src="https://github.com/user-attachments/assets/823f29cc-b4a8-4c99-b74b-93ef5429b119" />
+
 1. Launch app and wait for map to zoom to your current location.
 2. Go to the 🔴 **Record** tab.
 3. Change the default **tour name** if desired.
