@@ -26,7 +26,8 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
 4. Tap **Start** button <img width="44" height="43" alt="image" src="https://github.com/user-attachments/assets/a0e02879-a973-42b1-a4e0-7fe9c1cae735" />
 .
 5. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
-6. Note that the map banner shows **Recording...**
+6. Note that the start button turns to Stop button <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/a61cc722-dd00-4aa0-8519-3ff8ac70a8d5" />
+.
 7. Tap **Mark** button <img width="42" height="40" alt="image" src="https://github.com/user-attachments/assets/2dd38ce8-a46a-4765-b78f-1e319de881af" />
 whenever you want to pin your current location on the map.
    - Colored LED below **Pause** button shows GPS signal quality:
