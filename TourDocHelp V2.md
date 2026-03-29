@@ -25,7 +25,8 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
 .
 5. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
 6. Note that the map banner shows **Recording...**
-7. Tap **Mark** button whenever you want to pin your current location on the map.
+7. Tap **Mark** button <img width="42" height="40" alt="image" src="https://github.com/user-attachments/assets/2dd38ce8-a46a-4765-b78f-1e319de881af" />
+whenever you want to pin your current location on the map.
    - Colored LED next to **Start** button shows GPS signal quality:
      - 🟢 Green – Strong GPS signal with reliable location accuracy.
      - 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
