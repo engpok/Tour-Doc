@@ -3,8 +3,8 @@
 Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with your pinned locations on a map with breadcrumb trail, photos and notes:
 
 - 🔴 **Record tour** 
-  - **Mark(pin)** locations with button tap.
-  - document with photos and/or notes.
+  - **Mark(pin)** locations with simple button tap.
+  - Document with photos and/or notes.
 - 🗺️ **View saved tours**
   - Pins on the map show marked locations.
   - List of Pins, photos and notes.
