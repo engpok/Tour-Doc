@@ -37,7 +37,8 @@ whenever you want to pin your current location on the map.
    - 📸 **Mark** also opens the camera so you can take a photo right away.
    - Add notes to photos (or edit later).
    - If photo taken more than 150 ft (50m) from last pin, then new pin created on map.
-8. Tap **Photo** to add a photo to the most recent pinned location.
+8. Tap **Photo** <img width="39" height="40" alt="image" src="https://github.com/user-attachments/assets/07f6bb35-9c4c-42b8-b3fd-f206c96fedf9" />
+to add a photo to the most recent pinned location.
 9. Tap **Pause** <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/8e0c5534-0e61-4574-a0cd-355d84ef3a13" />
 to stop GPS and save battery (during lunch and rest breaks).
    - Tap **Resume** <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9767ce86-8538-4a4d-923e-8994db6b6a0a" />
