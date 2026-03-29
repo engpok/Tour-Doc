@@ -57,7 +57,7 @@ to end and save the tour.
 5. Left-Swipe a photo to:
    - **Delete**
    - **Copy to Photos**
-6. Tap a photo to view catalog of photos (larger size) for this pinned location.
+6. Tap a photo to view catalog of all photos (larger size) for the tour. Get Directions or copy photo to Photo app, for any displayed photo
 
 ---
 
@@ -81,6 +81,13 @@ Exports include:
 - **Units**: miles or kilometers.
 - **Default export format**: PDF or DOCX (with in-app purchase).
 - Online **help** doc
+
+---
+
+## Version 2.0
+- Bug fix (Record mode): now can see text in text box next to photos while entering/editing text.
+- Record control buttons moved to left side of map to leave room for text editing of photo notes.
+- In Savd Tours, tapping a photo brings up catalog of all photos for tour. Get directions, or copy photo to Photo app, for any displayed photo.
 
 ---
 
