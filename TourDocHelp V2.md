@@ -29,7 +29,7 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
 6. Note that the map banner shows **Recording...**
 7. Tap **Mark** button <img width="42" height="40" alt="image" src="https://github.com/user-attachments/assets/2dd38ce8-a46a-4765-b78f-1e319de881af" />
 whenever you want to pin your current location on the map.
-   - Colored LED next to **Start** button shows GPS signal quality:
+   - Colored LED below **Pause** button shows GPS signal quality:
      - 🟢 Green – Strong GPS signal with reliable location accuracy.
      - 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
      - 🔴 Red+Blinking – Searching for GPS or no location fix yet.
@@ -38,9 +38,12 @@ whenever you want to pin your current location on the map.
    - Add notes to photos (or edit later).
    - If photo taken more than 150 ft (50m) from last pin, then new pin created on map.
 8. Tap **Photo** to add a photo to the most recent pinned location.
-9. Tap **Pause** to stop GPS and save battery (during lunch and rest breaks).
-   - Tap **Resume** to continue.
-10. Tap **Stop** to save the tour.
+9. Tap **Pause** <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/8e0c5534-0e61-4574-a0cd-355d84ef3a13" />
+to stop GPS and save battery (during lunch and rest breaks).
+   - Tap **Resume** <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/9767ce86-8538-4a4d-923e-8994db6b6a0a" />
+to continue.
+10. Tap **Stop** <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/625c6d5f-b024-4e6a-8b16-503e95124955" />
+to end and save the tour.
 
 ---
 
