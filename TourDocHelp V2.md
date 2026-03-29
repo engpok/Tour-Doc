@@ -88,7 +88,8 @@ Exports include:
 ## Version 2.0
 - Bug fix (Record mode): now can see text in text box next to photos while entering/editing text.
 - Record control buttons moved to left side of map to leave room for text editing of photo notes.
-- In Savd Tours, tapping a photo brings up catalog of all photos for tour. Get directions, or copy photo to Photo app, for any displayed photo.
+- Record mode: confirmation now required to end a tour.
+- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photo app, for any displayed photo.
 
 ---
 
