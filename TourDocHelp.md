@@ -1,6 +1,6 @@
 <h1 align="center"> Tour Journaler Help<br>Version 1.1</h1>
 
-Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with your pinned locations on a map, breadcrumb trail, photos and notes:
+Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with your pinned locations on a map with breadcrumb trail, photos and notes:
 
 - 🔴 **Record tour** 
   - **Mark(pin)** locations with button tap.
