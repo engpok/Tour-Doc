@@ -95,7 +95,7 @@ Exports include:
 
 ## Version 1.1
 - On launch, map now shows a message while waiting for the first GPS fix.
-- GPS indicator now blinks red when location is not available.
+- GPS indicator now blinks red when location is not available (this should catch the eye better).
 
 ---
 
