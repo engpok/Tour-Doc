@@ -54,7 +54,7 @@ to end and save the tour.
 2. Tap a tour to open it (swipe left to **Rename** or **Delete**).
 3. Edit notes directly in the list.
 4. Left-Swipe a location/section header to get directions to that location.
-5. Left-Swipe a photo to:
+5. Left-Swipe the text field of a photo to:
    - **Delete**
    - **Copy to Photos**
 6. Tap a photo to view catalog of all photos (larger size) for the tour. Get Directions or copy photo to Photo app, for any displayed photo
@@ -89,7 +89,7 @@ Exports include:
 - Bug fix (Record mode): now can see text in text box next to photos while entering/editing text.
 - Record control buttons moved to left side of map to leave room for text editing of photo notes.
 - Record mode: confirmation now required to end a tour.
-- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photo app, for any displayed photo.
+- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photos app, for any displayed photo.
 
 ---
 
@@ -111,7 +111,10 @@ No problem... the app continues the breadcrumb trail whether the phone is in you
 Just tap the photo and you'll see a larger view of the photo and can even zoom in.
 
 **Can I share my saved tour with someone else?**
-Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built in Apple ios tools (Airdrop, mail, etc)
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
+
+**If I purchase the Export feature, do I have to purchase it again when there are new versions of the app?**
+Nope, it's a one time purchase and that enables that Export feature in the current and future versions of the app.
 
 **Bummer, I just realized that I made a mistake on a comment during recording... can I change it?**
 Yes, any comment during recording or in a saved tour can be edited at any time.
