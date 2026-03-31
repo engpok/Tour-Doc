@@ -120,7 +120,7 @@ Nope, it's a one time purchase and that enables that Export feature in the curre
 Yes, any comment during recording or in a saved tour can be edited at any time.
 
 **Why am I missing some pins on the map... I know I marked the locations?**
-Unfortunately, if you see "Location unavailable" for one or more "marked" locations it means that GPS reception was just not good enogh at those locations, at those times. I've learned to glance at that little LED between the buttons beside the map just before I hit that Pin/mark button... as long as that LED is green or yellow, I don't get the "Location unavailable".
+Unfortunately, if you see "Location unavailable" for one or more "marked" locations it means that GPS reception was just not good enough at those locations, at those times. I've learned to glance at that little LED between the buttons beside the map just before I hit that Pin/mark button... as long as that LED is green or yellow, I don't get the "Location unavailable".
 
 
 For help contact: CellAnalysis1@gmail.com
