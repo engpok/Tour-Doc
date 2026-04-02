@@ -25,9 +25,8 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
 3. Change the default **tour name** if desired.
 4. Tap **Start** button <img width="44" height="43" alt="image" src="https://github.com/user-attachments/assets/a0e02879-a973-42b1-a4e0-7fe9c1cae735" />
 .
-5. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
-6. Note that the start button turns to Stop button <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/a61cc722-dd00-4aa0-8519-3ff8ac70a8d5" />
-.
+5. Note that start button turns to Stop button <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/a61cc722-dd00-4aa0-8519-3ff8ac70a8d5" />.
+6. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
 7. Tap **Mark** button <img width="42" height="40" alt="image" src="https://github.com/user-attachments/assets/2dd38ce8-a46a-4765-b78f-1e319de881af" />
 whenever you want to pin your current location on the map.
    - Colored LED below **Pause** button shows GPS signal quality:
@@ -55,7 +54,7 @@ to end and save the tour.
 2. Tap a tour to open it (swipe left to **Rename** or **Delete**).
 3. Edit notes directly in the list.
 4. Left-Swipe a location/section header to get directions to that location.
-5. Left-Swipe a photo to:
+5. Left-Swipe the text field of a photo to:
    - **Delete**
    - **Copy to Photos**
 6. Tap a photo to view catalog of all photos (larger size) for the tour. Get Directions or copy photo to Photo app, for any displayed photo
@@ -64,7 +63,8 @@ to end and save the tour.
 
 ## 📤 Export tours to external file (with in-app purchase)
 
-Open a saved tour and tap **Share icon** in upper right:
+Open a saved tour and tap **Share icon** in upper right <img width="96" height="77" alt="image" src="https://github.com/user-attachments/assets/1852c79e-fca0-471e-ba57-f873e4ad9c1e" />
+:
 
 - **PDF** — best for sharing or printing.
 - **DOCX** — editable in Word (Mac/Windows).
