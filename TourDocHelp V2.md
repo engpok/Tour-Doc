@@ -25,9 +25,8 @@ Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with
 3. Change the default **tour name** if desired.
 4. Tap **Start** button <img width="44" height="43" alt="image" src="https://github.com/user-attachments/assets/a0e02879-a973-42b1-a4e0-7fe9c1cae735" />
 .
-5. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
-6. Note that the start button turns to Stop button <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/a61cc722-dd00-4aa0-8519-3ff8ac70a8d5" />
-.
+5. Note that start button turns to Stop button <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/a61cc722-dd00-4aa0-8519-3ff8ac70a8d5" />.
+6. Proceed on tour — the app records a breadcrumb trail on the map (even with phone in pocket).
 7. Tap **Mark** button <img width="42" height="40" alt="image" src="https://github.com/user-attachments/assets/2dd38ce8-a46a-4765-b78f-1e319de881af" />
 whenever you want to pin your current location on the map.
    - Colored LED below **Pause** button shows GPS signal quality:
@@ -55,7 +54,7 @@ to end and save the tour.
 2. Tap a tour to open it (swipe left to **Rename** or **Delete**).
 3. Edit notes directly in the list.
 4. Left-Swipe a location/section header to get directions to that location.
-5. Left-Swipe a photo to:
+5. Left-Swipe the text field of a photo to:
    - **Delete**
    - **Copy to Photos**
 6. Tap a photo to view catalog of all photos (larger size) for the tour. Get Directions or copy photo to Photo app, for any displayed photo
@@ -64,7 +63,8 @@ to end and save the tour.
 
 ## 📤 Export tours to external file (with in-app purchase)
 
-Open a saved tour and tap **Share icon** in upper right:
+Open a saved tour and tap **Share icon** in upper right <img width="96" height="77" alt="image" src="https://github.com/user-attachments/assets/1852c79e-fca0-471e-ba57-f873e4ad9c1e" />
+:
 
 - **PDF** — best for sharing or printing.
 - **DOCX** — editable in Word (Mac/Windows).
@@ -89,7 +89,7 @@ Exports include:
 - Bug fix (Record mode): now can see text in text box next to photos while entering/editing text.
 - Record control buttons moved to left side of map to leave room for text editing of photo notes.
 - Record mode: confirmation now required to end a tour.
-- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photo app, for any displayed photo.
+- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photos app, for any displayed photo.
 
 ---
 
@@ -99,18 +99,28 @@ Exports include:
 
 ---
 
-## 💡 Tips
+## 💡 Frequently Asked Questions
 
-While recording, Tour Journaler shows a **live GPS status LED** next to the **Start** button:
+**Does the app require data?**
+Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions).
 
-- 🟢 Green – Strong GPS signal with reliable location accuracy.
-- 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
-- 🔴 Red+Blinking – Searching for GPS or no location fix yet.
-- ⚪ Gray – GPS intentionally turned off (recording paused)
-- If a mark section shows **Location unavailable**, GPS accuracy was low or the last fix was too old.
-- For best results, monitor GPS quality before tapping **Mark** button.
+**What if I get a phone call, or need to text message while recording a tour??**
+No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app.
 
-Cell phone data connection required to render map.
+**How can I inspect the photo to tell if I captured what I wanted?**
+Just tap the photo and you'll see a larger view of the photo and can even zoom in.
+
+**Can I share my saved tour with someone else?**
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
+
+**If I purchase the Export feature, do I have to purchase it again when there are new versions of the app?**
+Nope, it's a one time purchase and that enables that Export feature in the current and future versions of the app.
+
+**Bummer, I just realized that I made a mistake on a comment during recording... can I change it?**
+Yes, any comment during recording or in a saved tour can be edited at any time.
+
+**Why am I missing some pins on the map... I know I marked the locations?**
+Unfortunately, if you see "Location unavailable" for one or more "marked" locations it means that GPS reception was just not good enough at those locations, at those times. I've learned to glance at that little LED between the buttons beside the map just before I hit that Pin/mark button... as long as that LED is green or yellow, I don't get the "Location unavailable".
+
 
 For help contact: CellAnalysis1@gmail.com
-
