@@ -86,7 +86,8 @@ Exports include:
 ---
 
 ## Version 2.1
-- Bug fix: While zoomed into photos, Pan now works (while recording tour or Saveed Tours) 
+- Bug fix: While zoomed into photos, Pan now works (while recording tour or Saveed Tours)
+
 ---
 
 ## Version 2.0
