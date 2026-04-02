@@ -104,19 +104,31 @@ Exports include:
 
 ---
 
-## 💡 Tips
+## 💡 Frequently Asked Questions
 
-While recording, Tour Journaler shows a **live GPS status LED** next to the **Start** button:
+**Does the app require data?**
+Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions).
 
-- 🟢 Green – Strong GPS signal with reliable location accuracy.
-- 🟡 Yellow – Weak GPS signal; location accuracy may be reduced.
-- 🔴 Red+Blinking – Searching for GPS or no location fix yet.
-- ⚪ Gray – GPS intentionally turned off (recording paused)
-- If a mark section shows **Location unavailable**, GPS accuracy was low or the last fix was too old.
-- For best results, monitor GPS quality before tapping **Mark** button.
+**What if I get a phone call, or need to text message while recording a tour??**
+No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app.
 
-Cell phone data connection required to render map.
+**How can I inspect the photo to tell if I captured what I wanted?**
+Just tap the photo and you'll see a larger view of the photo and can then zoom & pan.
+
+**Can I share my saved tour with someone else?**
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
+
+**Can I enhance my saved tour by adding photos, website info, more detailed notes?**
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. Then, use Word to insert other images, text and/or images from web sites, and spend more time getting the description looking and reading just the way you want. You can also stretch the size, and move the photos in the word doc.  
+
+**If I purchase the Export feature, do I have to purchase it again when there are new versions of the app?**
+Nope, it's a one time purchase and that enables that Export feature in the current and future versions of the app.
+
+**Bummer, I just realized that I made a mistake on a comment during recording... can I change it?**
+Yes, any comment during recording or in a saved tour can be edited at any time.
+
+**Why am I missing some pins on the map... I know I marked the locations?**
+Unfortunately, if you see "Location unavailable" for one or more "marked" locations it means that GPS reception was just not good enough at those locations, at those times. I've learned to glance at that little LED between the buttons beside the map just before I hit that Pin/mark button... as long as that LED is green or yellow, I don't get the "Location unavailable".
+
 
 For help contact: CellAnalysis1@gmail.com
-
-
