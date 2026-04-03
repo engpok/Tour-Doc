@@ -1,4 +1,4 @@
-<h1 align="center"> Tour Journaler Help<br>Version 2.0</h1>
+<h1 align="center"> Tour Journaler Help<br>Version 2.1</h1>
 
 Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with your pinned locations on a map with breadcrumb trail, photos and notes:
 
@@ -85,11 +85,16 @@ Exports include:
 
 ---
 
+## Version 2.1
+- Bug fix: While zoomed into photos, Pan now works (while recording tour or Saved Tours)
+
+---
+
 ## Version 2.0
 - Bug fix (Record mode): now can see text in text box next to photos while entering/editing text.
 - Record control buttons moved to left side of map to leave room for text editing of photo notes.
 - Record mode: confirmation now required to end a tour.
-- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photos app, for any displayed photo.
+- In Saved Tours, tapping a photo brings up a catalog of all photos for the tour. Get directions, or copy photo to Photo app, for any displayed photo.
 
 ---
 
@@ -108,10 +113,13 @@ Yes, data is required for the mapping features (breadcrumb trail on map, pins on
 No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app.
 
 **How can I inspect the photo to tell if I captured what I wanted?**
-Just tap the photo and you'll see a larger view of the photo and can even zoom in.
+Just tap the photo and you'll see a larger view of the photo and can then zoom & pan.
 
 **Can I share my saved tour with someone else?**
 Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
+
+**Can I enhance my saved tour by adding photos, website info, more detailed notes?**
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in Word (docx) format. Then, use Word to insert other images, text and/or images from web sites, and spend more time getting the description looking and reading just the way you want. You can also stretch the size, and move the photos in the word doc.  
 
 **If I purchase the Export feature, do I have to purchase it again when there are new versions of the app?**
 Nope, it's a one time purchase and that enables that Export feature in the current and future versions of the app.
@@ -124,5 +132,3 @@ Unfortunately, if you see "Location unavailable" for one or more "marked" locati
 
 
 For help contact: CellAnalysis1@gmail.com
-
-
