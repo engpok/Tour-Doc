@@ -116,7 +116,7 @@ No problem... the app continues the breadcrumb trail whether the phone is in you
 Just tap the photo and you'll see a larger view of the photo and can then zoom & pan.
 
 **Can I share my saved tour with someone else?**
-Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
 
 **Can I enhance my saved tour by adding photos, website info, more detailed notes?**
 Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in Word (docx) format. Then, use Word to insert other images, text and/or images from web sites, and spend more time getting the description looking and reading just the way you want. You can also stretch the size, and move the photos in the word doc.  
