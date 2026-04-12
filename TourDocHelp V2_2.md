@@ -110,7 +110,7 @@ Just tap the photo and you'll see a larger view of the photo and can then zoom &
 Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
 
 **What happens if my battery dies or I accidentally swipe the app away while recording a tour?**
-No problem. Just relaunch the app and the will recognize that it has a tour in limbo. It will ask if you want to resume the tour, save (quit) the tour or discard the tour. If you resume the tour, a resume mark will be placed on the map as if you had paused and now resumed the tour.
+No problem. Just relaunch the app and it will recognize that it has a tour in limbo. It will ask if you want to resume the tour, save (quit) the tour or discard the tour. If you resume the tour, a resume mark will be placed on the map as if you had paused and now resumed the tour.
 
 **Can I enhance my saved tour by adding photos, website info, more detailed notes?**
 Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in Word (docx) format. Then, use Word to insert other images, text and/or images from web sites, and spend more time getting the description looking and reading just the way you want. You can also stretch the size, and move the photos in the word doc.  
