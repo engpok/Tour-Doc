@@ -101,7 +101,7 @@ Exports include:
 Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions).
 
 **What if I get a phone call, or need to text message while recording a tour??**
-No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app.
+No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app. Just keep the app running and switch to the other app(s).
 
 **How can I inspect the photo to tell if I captured what I wanted?**
 Just tap the photo and you'll see a larger view of the photo and can then zoom & pan.
