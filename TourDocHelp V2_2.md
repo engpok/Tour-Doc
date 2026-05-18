@@ -46,7 +46,7 @@ to stop GPS and save battery (during lunch and rest breaks).
 to continue.
 10. Tap **Stop** <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/625c6d5f-b024-4e6a-8b16-503e95124955" />
 to end and save the tour.
-11. If app accidentally dismissed during tour: relaunch app and choose: Resume, Save, Discard recording
+11. If app accidentally dismissed during tour: relaunch app and choose: Resume, Save, or Discard recording
 
 ---
 
