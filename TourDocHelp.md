@@ -46,7 +46,7 @@ to stop GPS and save battery (during lunch and rest breaks).
 to continue.
 10. Tap **Stop** <img width="40" height="39" alt="image" src="https://github.com/user-attachments/assets/625c6d5f-b024-4e6a-8b16-503e95124955" />
 to end and save the tour.
-11. If app accidentally dismissed during tour: relaunch app and choose: Resume, Save, Discard recording
+11. If app accidentally dismissed during tour: relaunch app and choose: Resume, Save, or Discard recording
 
 ---
 
@@ -98,7 +98,9 @@ Exports include:
 ## 💡 Frequently Asked Questions
 
 **Does the app require data?**
-Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions).
+Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions). However, if you were hiking in a remote area without data:
+ - during recording of the tour, you wouldn't see the map
+ - but, after the tour was saved and you returned to a location where you had access to data, the saved tour would show the map, breadcrumb trail and pinned locations.
 
 **What if I get a phone call, or need to text message while recording a tour??**
 No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app. Just keep the app running and switch to the other app(s).
@@ -107,7 +109,7 @@ No problem... the app continues the breadcrumb trail whether the phone is in you
 Just tap the photo and you'll see a larger view of the photo and can then zoom & pan.
 
 **Can I share my saved tour with someone else?**
-Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
+Yes, if you purchase the Export feature (the in-app-purchase), you can export a saved tour in PDF or Word (docx) format. If you just want to share a photo in a saved tour, then just tap the photo and a button below the photo lets you copy it to the Photos app... from there you can share using built-in Apple ios tools (Airdrop, mail, etc)
 
 **What happens if my battery dies or I accidentally swipe the app away while recording a tour?**
 No problem. Just relaunch the app and it will recognize that it has a tour in limbo. It will ask if you want to resume the tour, save (quit) the tour or discard the tour. If you resume the tour, a resume mark will be placed on the map as if you had paused and now resumed the tour.
