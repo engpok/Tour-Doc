@@ -98,7 +98,9 @@ Exports include:
 ## 💡 Frequently Asked Questions
 
 **Does the app require data?**
-Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions).
+Yes, data is required for the mapping features (breadcrumb trail on map, pins on map, directions). However, if you were hiking in a remote area without data:
+ - during recording of the tour, you wouldn't see the map
+ - but, after the tour was saved and you returned to a location where you had access to data, the saved tour would show the map, breadcrumb trail and pinned locations.
 
 **What if I get a phone call, or need to text message while recording a tour??**
 No problem... the app continues the breadcrumb trail whether the phone is in your pocket or you're running a diffferent app. Just keep the app running and switch to the other app(s).
