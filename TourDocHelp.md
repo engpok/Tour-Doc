@@ -1,4 +1,4 @@
-<h1 align="center"> Tour Journaler Help<br>Version 2.2</h1>
+<h1 align="center"> Tour Journaler Help<br>Version 2.3</h1>
 
 Tour Journaler lets you document a walking/food/biking/snowshoeing/etc tour with your pinned locations on a map with breadcrumb trail, photos and notes:
 
@@ -87,12 +87,9 @@ Exports include:
 
 ---
 
-## Latest Update (Version 2.2)
-- GPS LED larger
-- Tours are now backed up automatically as you record:
-   - Recover interrupted tours on re-launch and choose to resume, save, or discard
-   - Improved reliability if accidental closure of app 
-
+## Latest Update (Version 2.3)
+- Fixed an issue when editing photo captions in saved tours where the cursor could unexpectedly move to the end of the caption.
+  
 ---
 
 ## 💡 Frequently Asked Questions
@@ -130,6 +127,14 @@ Unfortunately, if you see "Location unavailable" for one or more "marked" locati
 
 # Version History
 
+## Version 2.2
+- GPS LED larger
+- Tours are now backed up automatically as you record:
+   - Recover interrupted tours on re-launch and choose to resume, save, or discard
+   - Improved reliability if accidental closure of app 
+
+---
+
 ## Version 2.1
 - Bug fix: While zoomed into photos, Pan now works (while recording tour or Saved Tours)
 
@@ -150,4 +155,5 @@ Unfortunately, if you see "Location unavailable" for one or more "marked" locati
 ---
 
 For help contact: CellAnalysis1@gmail.com
+
 
